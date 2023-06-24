@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../Tab Screens/tab-1.dart';
-import '../Tab Screens/tab-2.dart';
+import '../Tab Screens/tab_one.dart';
+import '../Tab Screens/tab_two.dart';
 
 class MyAdsScreen extends StatelessWidget {
   const MyAdsScreen({super.key});
